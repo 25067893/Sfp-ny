@@ -1,0 +1,2 @@
+text="ny"
+print(text)
